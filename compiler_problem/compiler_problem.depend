@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658041565 source:h:\b.sc in cse\8th semester\cse-323 & 324 compiler\problem solving\compiler_problem\main.c
+	<stdio.h>
+	<string.h>
+

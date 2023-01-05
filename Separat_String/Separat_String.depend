@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655014756 source:h:\b.sc in cse\8th semester\cse-323 & 324 compiler\problem solving\separat_string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

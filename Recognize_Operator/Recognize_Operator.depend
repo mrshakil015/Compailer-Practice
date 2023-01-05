@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654412316 source:f:\b.sc in cse\problem solving\recognize_operator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

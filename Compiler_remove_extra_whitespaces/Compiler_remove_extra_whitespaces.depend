@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653203348 source:f:\b.sc in cse\problem solving\compiler_remove_extra_whitespaces\main.c
+	<stdio.h>
+	<stdlib.h>
+

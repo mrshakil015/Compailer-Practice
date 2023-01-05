@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1656960367 source:h:\b.sc in cse\8th semester\cse-323 & 324 compiler\problem solving\character_frequrency\main.c
+	<stdio.h>
+	<string.h>
+
